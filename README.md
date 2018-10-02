@@ -1,4 +1,4 @@
-# People_on_Plane_DataAnalysis
+<p align = "center"> # People_on_Plane_DataAnalysis </p>
 A data analysis on People Etiquettes on Air Travel using python
 
 ## People Etiquettes on Air
